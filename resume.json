@@ -1,13 +1,11 @@
-"basics": {
+{"basics": {
 		"name": "Apoorv",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "https://avatars.githubusercontent.com/u/41234616?v=4",
 		"email": "2019kucp1035@iiitkota.ac.in",
 		"phone": "7055887723",
 		"website": "---Enter Link of website(if any) ---",
-		"summary": "I am a web developer and machine learning enthusiast. I aim to
-engage in an internship where I can learn and share my passion for
-technology by developing valuable and efficient softwares.",
+		"summary": "I am a web developer and machine learning enthusiast. I aim to engage in an internship where I can learn and share my passion for technology by developing valuable and efficient softwares.",
 		"location": {
 			"address": "House No.85, Lane No.13, North Gandhi Colony",
 			"postalCode": "251001",
@@ -87,3 +85,4 @@ technology by developing valuable and efficient softwares.",
 		"keywords": ["Chess", "Cricket", "Football"]
 	}],
 	"references": []
+}
