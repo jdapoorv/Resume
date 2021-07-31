@@ -1,0 +1,89 @@
+"basics": {
+		"name": "Apoorv",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1035@iiitkota.ac.in",
+		"phone": "7055887723",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I am a web developer and machine learning enthusiast. I aim to
+engage in an internship where I can learn and share my passion for
+technology by developing valuable and efficient softwares.",
+		"location": {
+			"address": "House No.85, Lane No.13, North Gandhi Colony",
+			"postalCode": "251001",
+			"city": "Muzaffarnagar(U.P.)",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "jdapoorv",
+				"url": "https://www.twitter.com/jdapoorv"
+			},
+			{
+				"network": "Github",
+				"username": "jdapoorv",
+				"url": "https://www.github.com/jdapoorv/"
+			},
+			{
+				"network": "linkedin",
+				"username": "jdapoorv",
+				"url": "https://www.linkedin.com/in/jdapoorv/"
+			},
+			{
+				"network": "Instagram",
+				"username": "jdapoorv",
+				"url": "https://instagram.com/jdapoorv"
+			}
+		]
+	},
+	"work": [{
+		"company": "---",
+		"position": "----",
+		"website": "----",
+		"startDate": "2020-08-04//Take care about Date Format",
+		"endDate": "Date // ",
+		"summary": "---Tell me something About Org. --- ",
+		"highlights": ["Add Highlights", "Your work details"]
+	}],
+	"volunteer": [{
+		"organization": "---Name Org ---",
+		"position": "---Add ---",
+		"website": "---",
+		"startDate": "2020-01-01 // Note Date Format",
+		"endDate": "---",
+		"summary": "Description...",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-04-08 //Date",
+		"endDate": "2023",
+		"gpa": "7.6",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "--Title---",
+		"awarder": "---Receiverd By ---",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Python", "Machine Learning", "Deep Learning"]
+	}],
+	"interests": [{
+    "name": "Literature"
+    "keywords": ["Creative Writing", "Reading"]
+		"name": "Sports",
+		"keywords": ["Chess", "Cricket", "Football"]
+	}],
+	"references": []
