@@ -1,4 +1,5 @@
-{"basics": {
+{
+	"basics": {
 		"name": "Apoorv",
 		"label": "Student",
 		"picture": "https://avatars.githubusercontent.com/u/41234616?v=4",
@@ -79,10 +80,10 @@
 		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Python", "Machine Learning", "Deep Learning"]
 	}],
 	"interests": [{
-    "name": "Literature"
-    "keywords": ["Creative Writing", "Reading"]
-		"name": "Sports",
-		"keywords": ["Chess", "Cricket", "Football"]
+		"name1": "Literature",
+		"keywords1": ["Creative Writing", "Reading"],
+		"name2": "Sports",
+		"keywords2": ["Chess", "Cricket", "Football"]
 	}],
 	"references": []
 }
