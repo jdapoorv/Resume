@@ -37,13 +37,13 @@
 		]
 	},
 	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
+		"company": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": " ",
+		"summary": "",
+		"highlights": ["", ""]
 	}],
 	"volunteer": [{
 		"organization": "",
