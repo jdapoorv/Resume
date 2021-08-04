@@ -76,12 +76,14 @@
 		"link": ""
 	}],
 	"skills": [{
-		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Python", "Machine Learning", "Deep Learning"]
+		"level1": "Intermediate",
+		"keywords1": ["HTML", "CSS", "Javascript", "C/C++", "Python", "Machine Learning"],
+		"level2": "Intermediate",
+		"keywords2": ["Editing", "Creative Writing", "Formal Writing"]
 	}],
 	"interests": [{
 		"name1": "Literature",
-		"keywords1": ["Creative Writing", "Reading"],
+		"keywords1": ["Writing", "Reading"],
 		"name2": "Sports",
 		"keywords2": ["Chess", "Cricket", "Football"]
 	}],
